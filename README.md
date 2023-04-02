@@ -1,8 +1,7 @@
 # Demo API project using Django Rest Framework
 
-This is a demo API project which is built using Django Rest Framework. ​
+This is a demo API project which is built using Django Rest Framework. 
 
-​
 ## Requirements
 
 - Python 3.10
@@ -60,6 +59,8 @@ In a RESTful API, endpoints (URLs) define the structure of the API and how end u
 | `get-word`      | GET           |Calls a [English Dictionary](https://dictionaryapi.dev/) public API to get information about verb examples and word definitions|
 
 ## Architecture
+
+![alt text](https://raw.githubusercontent.com/syedmuhamaddanish/Demo-Api/main/App%20Architecture.jpg)
 
 ## Test
 

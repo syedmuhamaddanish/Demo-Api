@@ -60,7 +60,7 @@ In a RESTful API, endpoints (URLs) define the structure of the API and how end u
 
 ## Architecture
 
-![alt text](https://raw.githubusercontent.com/syedmuhamaddanish/Demo-Api/main/App%20Architecture.jpg)
+![alt text](https://raw.githubusercontent.com/syedmuhamaddanish/Demo-Api/main/architecture.jpg)
 
 ## Test
 
